@@ -3,7 +3,7 @@
 This repository contains the numerical code and plotting scripts used to generate the results and figures for the manuscript
 
 > **Hardware-Efficient Universal Gate Set for GKP Qubits in Circuit QED**  
-> Juan Sebastián Salcedo-Gallo, *et al.*
+> Annonymous submission
 
 The code constructs finite-energy GKP codewords using a 1D \(q\)-comb in a truncated Fock basis, evaluates logical overlaps as a function of squeezing and cutoff, and simulates a gyrator-based SUM gate that acts as a logical CNOT between two GKP-encoded oscillators.
 
