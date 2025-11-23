@@ -54,7 +54,7 @@ You can install the dependencies with:
 
 ```bash
 pip install numpy scipy matplotlib qutip tqdm
-
+```
 
 ## Parameters used in the manuscript
 
